@@ -90,9 +90,8 @@ body{
 .fampic > img{
     width: 350px;
     height: 250px;
-    border: 5px;
+    border-radius: 5px;
 }
-/*travel*/
 .heading{
     width: 30%;
     text-align: center;
