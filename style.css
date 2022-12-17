@@ -93,6 +93,11 @@ body{
     border: 5px;
 }
 /*travel*/
+.heading{
+    width: 30px;
+    text-align: center;
+    color: #fff;
+}
 .heading h1{
     font-size: 40px;
 }
@@ -111,6 +116,7 @@ body{
 }
 .travel-career1 h2{
     color: #000;
+    font-size: 35px;
     letter-spacing: 3px;
     border-radius: 1px;
     padding: 30px 30px;
