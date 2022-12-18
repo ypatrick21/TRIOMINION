@@ -33,7 +33,9 @@ body{
 .nav ul li{
     list-style: none;
     display: inline-block;
-
+}
+.nav ul{
+    float: right;
 }
 .nav ul li a{
     text-decoration: none;
