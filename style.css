@@ -94,3 +94,29 @@ body{
 	height: 250px;
 	border-radius: 5px;
 }
+.heading{
+	width: 30%;
+	text-align: center;
+	color:#fff;
+}
+.heading h1{
+	color:#9acbcb;
+}
+.travel-career{
+	width: 70%;
+	display: flex;
+	justify-content: space-around;
+}
+.travel-career1{
+	display: inline;
+	text-align: center;
+	border-radius: 12px;
+}
+.travel-career1 h2{
+	color:#000;
+	font-size: 35px;
+	letter-spacing: 3px;
+	border-radius: 1px;
+	padding:30px 30px;
+	background-color:#fff;
+}
