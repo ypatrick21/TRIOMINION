@@ -102,6 +102,9 @@ body{
 .heading h1{
 	color:#9acbcb;
 }
+.heading h1 span{
+	color: #9acbcb;
+}
 .travel-career{
 	width: 70%;
 	display: flex;
